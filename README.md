@@ -1,5 +1,7 @@
 # Social-to-Lead Agentic Workflow (AutoStream AI)
 
+📺 **[Click Here to Watch the Demo Video](https://drive.google.com/file/d/1XqG4zbr0Dz7bnr_C85MoNXME9eJaLYTz/view?usp=drivesdk)**
+
 This is a real-world Conversational AI Agent built for **AutoStream**, a SaaS company providing automated video editing tools for content creators. The agent is constructed to intentionally identify user intent, answer product queries via a RAG (Retrieval-Augmented Generation) pipeline, and organically act on High-Intent leads via Tool Calls.
 
 ## 🚀 Core Capabilities
